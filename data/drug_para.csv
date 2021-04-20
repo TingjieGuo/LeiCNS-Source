@@ -1,0 +1,13 @@
+drug,MW,logP,pKacid,pKbase
+acetaminophen,151.16,0.51,9.46,-4.4
+atenolol,266.34,0.57,14.08,9.67
+methotrexate,454.45,-0.91,3.41,2.81
+morphine,285.34,0.99,10.26,9.12
+paliperidone,426.49,2.3,13.74,8.76
+phenytoin,252.27,2.26,9.47,-9
+quinidine,324.42,2.82,13.89,9.05
+raclopride,347.24,3.38,5.31,9.32
+remoxipride,371.28,2.94,13.06,8.4
+risperidone,410.49,3.27,Inf,8.76
+oxycodone,315.37,1.04,13.56,8.21
+indomethacin,357.8,4.25,3.79,-2.9
