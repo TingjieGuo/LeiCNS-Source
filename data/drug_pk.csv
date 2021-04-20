@@ -2,7 +2,7 @@
 acetaminophen,human,1,healthy,495,0,0,108000,0,0,1,1,1
 morphine,human,1,healthy,3070,3030,0,16000,95400,0,0.23,0.23,0.23
 oxycodone,human,1,healthy,1140,11700,47.4,93600,178000,19400,1.69,2,2
-Indomethacin,human,1,healthy,14200,54600,0,1320000,10300000,0,0.1,0.272,0.272
+indomethacin,human,1,healthy,14200,54600,0,1320000,10300000,0,0.1,0.272,0.272
 acetaminophen,rat,1,healthy,4.7,11.18,31.35,50.71,27891.7,162.47,0.51,0.51,0.51
 atenolol,rat,1,healthy,6.3,4.25,0,118.7,203.36,0,0.037,0.037,0.037
 methotrexate,rat,1,healthy,8.31,23.33,0.79,38.16,139.95,47.99,0.018,0.0066,0.0024
