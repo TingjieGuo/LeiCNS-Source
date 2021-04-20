@@ -1,0 +1,15 @@
+﻿drug,species,scenario,scendef,CLe,QCP1,QCP2,VCEN,VP1,VP2,KpuuECF,KpuuLV,KpuuCM
+acetaminophen,human,1,healthy,495,0,0,108000,0,0,1,1,1
+morphine,human,1,healthy,3070,3030,0,16000,95400,0,0.23,0.23,0.23
+oxycodone,human,1,healthy,1140,11700,47.4,93600,178000,19400,1.69,2,2
+Indomethacin,human,1,healthy,14200,54600,0,1320000,10300000,0,0.1,0.272,0.272
+acetaminophen,rat,1,healthy,4.7,11.18,31.35,50.71,27891.7,162.47,0.51,0.51,0.51
+atenolol,rat,1,healthy,6.3,4.25,0,118.7,203.36,0,0.037,0.037,0.037
+methotrexate,rat,1,healthy,8.31,23.33,0.79,38.16,139.95,47.99,0.018,0.0066,0.0024
+morphine,rat,1,healthy,23.34,4.97,31.68,175.73,1636.28,475.86,0.23,0.23,0.23
+paliperidone,rat,1,healthy,219.46,6765.63,0,25,32981,0,0.5,0.5,0.5
+phenytoin,rat,1,healthy,47.72,415.88,0,453.32,2268.39,0,0.26,0.26,0.26
+quinidine,rat,1,healthy,178.28,238.03,753.99,183.65,7335,5062.54,1.5,1.5,1.5
+raclopride,rat,1,healthy,45.4,68.04,15.03,50.44,468.42,690,1.1,1.1,1.1
+remoxipride,rat,1,healthy,47.43,16.52,56.76,82.89,602.77,457.52,0.8,0.8,0.8
+risperidone,rat,1,healthy,773.3,0,0,47936.8,0,0,0.97,0.97,0.97
