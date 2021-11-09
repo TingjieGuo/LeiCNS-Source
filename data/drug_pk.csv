@@ -13,7 +13,7 @@ quinidine,rat,healthy,178.28,238.03,753.99,183.65,7335,5062.54,1.5,1.5,1.5
 raclopride,rat,healthy,45.4,68.04,15.03,50.44,468.42,690,1.1,1.1,1.1
 remoxipride,rat,healthy,47.43,16.52,56.76,82.89,602.77,457.52,0.8,0.8,0.8
 risperidone,rat,healthy,773.3,0,0,47936.8,0,0,0.97,0.97,0.97
-acetaminophen,human,paracellular increase,495,0,0,108000,0,0,1,1,1
+acetaminophen,human,paracellular decrease,495,0,0,108000,0,0,1,1,1
 morphine,human,paracellular decrease,3070,3030,0,16000,95400,0,0.23,0.23,0.23
 oxycodone,human,paracellular decrease,1140,11700,47.4,93600,178000,19400,1.69,2,2
 indomethacin,human,paracellular decrease,14200,54600,0,1320000,10300000,0,0.1,0.272,0.272
