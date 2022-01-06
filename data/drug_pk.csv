@@ -1,4 +1,4 @@
-drug,species,scenario,CLe,QCP1,QCP2,VCEN,VP1,VP2,KpuuECF,KpuuLV,KpuuCM
+drug,species,scenario,CLe,QCP1,QCP2,VCEN,VP1,VP2,kpuuBBB,kpuuLV,kpuuCM
 acetaminophen,human,healthy,495,0,0,108000,0,0,1,1,1
 morphine,human,healthy,3070,3030,0,16000,95400,0,0.23,0.23,0.23
 oxycodone,human,healthy,1140,11700,47.4,93600,178000,19400,1.69,2,2
